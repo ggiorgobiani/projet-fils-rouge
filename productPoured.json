@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "first molded candle",
+        "description": "this is my first molded candle on the site",
+        "illustration": "img/imgproduct/molded1.jpg",
+        "price": 9.99 
+    },
+    {
+        "id": 2,
+        "title": "second molded candle" ,
+        "description": "my second molded candle on this site" ,
+        "illustration":  "img/imgproduct/molded2.jpg" ,
+        "price": 11.99
+    },
+    {
+        "id": 3,
+        "title": "third molded candle" ,
+        "description": "its time to third candle on my site" ,
+        "illustration":  "img/imgproduct/molded3.jpg" ,
+        "price": 31.22
+    },
+    {
+        "id": 4,
+        "title": "fourth molded candle" ,
+        "description": "i have fourth molded candle too" ,
+        "illustration":  "img/imgproduct/molded4.jpg" ,
+        "price": 21.43
+    },
+    {
+        "id": 5,
+        "title": "fifth molded candle" ,
+        "description": "my site have fifth molded candle" ,
+        "illustration":  "img/imgproduct/molded5.jpg" ,
+        "price": 11.11
+    },
+    {
+        "id": 5,
+        "title": "sixth molded candle" ,
+        "description": "sixth molded candle uploaded on the site" ,
+        "illustration":  "img/imgproduct/molded6.jpg" ,
+        "price": 6.98
+    }
+]
