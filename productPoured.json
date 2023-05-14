@@ -24,7 +24,7 @@
         "id": 4,
         "title": "fourth molded candle" ,
         "description": "i have fourth molded candle too" ,
-        "illustration":  "img/imgproduct/molded4.jpg" ,
+        "illustration":  "/img/imgproduct/molded4.jpg" ,
         "price": 21.43
     },
     {

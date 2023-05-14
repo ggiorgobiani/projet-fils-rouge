@@ -23,10 +23,6 @@
         laudantium hic libero, repudiandae, inventore asperiores numquam debitis vero earum
       architecto rerum eius omnis sit impedit esse officia dicta? Voluptates cupiditate
          sunt veniam, nisi sequi vel veritatis soluta repudiandae quibusdam itaque libero        
-        neque non quibusdam eum repellendus dignissimos eius, numquam hic quisquam. Cum 
-   magni sed molestiae vel veniam commodi et, inventore, ipsam quis voluptate 
-      laudantium aliquid iusto fuga, labore perferendis. Nam illo rem illum enim! 
-       Necessitatibus adipisci iste quae ipsum quasi animi ipsa deserunt suscipit
        mollitia laudantium dolor nisi explicabo ea perspiciatis velit qui nostrum 
       error quibusdam quod voluptatum, fugiat sunt. Excepturi accusantium soluta
        
