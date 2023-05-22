@@ -1,7 +1,26 @@
-<!---------- CSS ----------->
+
+
+/*  c'est pour fixer le header en haut et le footer en bas, 
+il faut mettre le flex-grow sur le main div pour occuper toute la place de page
+body {
+  min-height: 100vh;
+  display:flex;
+  flex-direction:column;
+}
+.main-content {
+  flex-grow:1;
+} */
+
+
+
 
 body{
-  width: 10%;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+footer{
+  margin-top: auto;
 }
 #menuNav{
     border: none;
@@ -49,14 +68,15 @@ body{
   width: 500px;
 }
 .aboutText p{
-  width: 400px;
-  margin: auto;
+ 
+ padding-top: 50px;
+  
  
 }
 
-.aboutImg img{
-  width: 700px;
-  height: 520px;
+.aboutImg  img{
+  width: 600px ;
+  height: 450px ;
   transform: translateX(-40%);
   transition: transform 1s ease;
 }
@@ -68,6 +88,3 @@ body{
 .pouredCatalogNode, .fondantCatalogNode{
   cursor: pointer;
 }
-
-
-

@@ -5,7 +5,6 @@
 
 <link rel="stylesheet" href="css/style.css">
 
-   <!------------ html ---------->
    <!-- Carousel ------>
   <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
     <div class="carousel-inner">
@@ -38,9 +37,12 @@
 
 
 
-<!--------- HTML ---èèè--->
-<section class="row aboutSection">
+<!--------- HTML ------>
+
+<section class="container text-center aboutSection">
+  <div class="row">
   <div  class="aboutText col">
+    <h2>A propos de company</h2>
   <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.
      Saepe aspernatur voluptatem, cupiditate ab assumenda labore 
      nostrum omnis! Asperiores, earum! Aut ratione temporibus facere 
@@ -54,14 +56,14 @@
      nostrum omnis! Asperiores, earum! Aut ratione temporibus facere 
      debitis unde, dicta dolore quam et autem.</p>
   </div>
+
+  
   <div class="aboutImg col">
-    <img src="img/candle-making.jpg" alt="aboutMaking">
+    <img  src="img/candle-making.jpg" alt="aboutMaking">
   </div>
+</div>
+
 </section>
-
-
-
-
 
 <!----------  footer  ------------->
 <?php

@@ -17,3 +17,15 @@ th{
     height: 400px;
     width: 400px;
 }
+
+
+
+
+footer{
+    margin-top: auto;
+}
+body{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}

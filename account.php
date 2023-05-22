@@ -17,21 +17,21 @@
             <div class="col-6">
                 <div class="form-container">
                     <div class="form-btn">
-                        <span onclick="login()">Login</span>
-                        <span onclick="register()">Register</span>
+                        <span onclick="login()">Connexion</span>
+                        <span onclick="register()">Inscription</span>
                         <hr id="indicator">
                     </div>
                     <form id="loginForm">
                         <input type="text" placeholder="username">
                         <input type="password" placeholder="password">
-                        <button type="submit" class="btn">Login </button>
-                        <a href="">Forgot password</a>
+                        <button type="submit" class="btn">Connexion </button>
+                        <a href="">Mot de pass oublié?</a>
                     </form>
                     <form id="regForm">
                         <input type="text" placeholder="username">
                         <input type="email" placeholder="Email">
                         <input type="password" placeholder="password">
-                        <button type="submit" class="btn">Register </button>
+                        <button type="submit" class="btn">Inscription </button>
                     </form>
 
                 </div>

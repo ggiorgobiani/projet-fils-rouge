@@ -44,5 +44,9 @@ let titleCatalogFondantText = document.createTextNode('Fondants');
         const windowHeight = window.innerHeight;
         if (position < windowHeight) {
           element.classList.add('move');
+        }else{
+          element.classList.remove('move');
         }
+
+
       });

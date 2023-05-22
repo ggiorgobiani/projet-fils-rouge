@@ -6,7 +6,7 @@
 
 
 
-<div class="mainDivAboutPage row">
+<div class="container-fluid mainDivAboutPage row" >
   <div class="textAboutPage col">
     <h1>A PROPOS DE NOUS</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure ea perspiciatis rem,

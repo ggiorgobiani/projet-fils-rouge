@@ -21,11 +21,13 @@
     }
   }
   
+  .mainDivAboutPage{
+    margin-bottom: 20vh;
+  }
   .textAboutPage{
     padding-left: 40px;
     text-align: center;
     margin-top: 15vh;
-    height: 400px;
     margin-bottom: 50px;
   }
   .textAboutPage > h1{
@@ -39,6 +41,7 @@
     width: 300px;
     height: 300px;
     margin-top: 15vh;  
+  
   }
   
   .pic-ctn > img {
@@ -65,6 +68,107 @@
     animation-delay: 16s;
   }
   
+  
   footer{
-    margin-top: 260px;
+    margin-top: auto;
+}
+body{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+
+
+
+@media (max-width: 768px) {
+  .mainDivAboutPage{
+    flex-direction: column;
+    align-items: center;
   }
+  .pic-ctn {
+    margin-top: 1vh;  
+  }
+  .pic-ctn > img{
+    width: 350px;
+    height: 350px;
+  }
+  .textAboutPage{
+    padding-left: 0;
+    text-align: center;
+    margin-top: 6vh;
+    
+  }
+  .textAboutPage > p {
+    padding: 0; 
+    margin: 0 50px 0 50px;
+  }
+  .textAboutPage > h1{
+    margin: 20px;
+  }
+
+  .pic-ctn{
+   
+    margin-bottom: 20rem;
+  }
+
+}
+
+
+
+
+@media (min-width: 768px) {
+  .mainDivAboutPage{
+    flex-direction: row;
+  }
+  .pic-ctn > img{
+    width: 350px;
+    height: 350px;
+  }
+  .textAboutPage{
+    padding-left: 0;
+    margin-top: 8vh;
+    
+  }
+  .textAboutPage > p {
+    padding: 0px 10px 0 10px; 
+  }
+  .textAboutPage > h1{
+    margin: 30px;
+  }
+}
+
+@media (min-width: 992px) {
+  .pic-ctn > img{
+    width: 400px;
+    height: 400px;
+  }
+  .textAboutPage{
+    padding-left: 0;
+    margin-top: 8vh;
+  }
+  
+}
+
+
+@media (min-width: 1200px) {
+  
+  .pic-ctn > img{
+    height: 450px;
+    width: 500px;
+  }
+  .textAboutPage{
+    margin-top: 10vh;
+  }
+  .textAboutPage > p {
+    padding: 0px 30px 0 30px; 
+  }
+}
+
+@media (min-width: 1400px) {
+  .pic-ctn > img{
+    height: 500px;
+    width: 600px;
+  }
+  
+}
